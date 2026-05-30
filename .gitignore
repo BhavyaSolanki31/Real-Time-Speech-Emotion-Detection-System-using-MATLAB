@@ -1,0 +1,8 @@
+*.asv
+*.autosave
+*.slxc
+*.mex*
+*.p
+*.fig~
+*.tmp
+*.bak
