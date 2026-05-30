@@ -182,6 +182,21 @@ serDashboard
 
 ---
 
+## Sample Audio Files
+
+The repository includes sample speech recordings for quick testing:
+
+| File | Emotion |
+|--------|----------|
+| sample_happy.wav | Happy |
+| sample_sad.wav | Sad |
+| sample_angry.wav | Angry |
+| sample_neutral.wav | Neutral |
+
+These files can be uploaded directly through the dashboard to test emotion detection.
+
+--- 
+
 ## Applications
 
 * Human-Computer Interaction
