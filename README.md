@@ -211,7 +211,7 @@ serDashboard
 **Bhavya Solanki**
 
 B.Tech – Electronics & Communication Engineering (ECE)
-AI & Machine Learning Enthusiast
+ AI & Machine Learning Enthusiast
 
 ---
 
