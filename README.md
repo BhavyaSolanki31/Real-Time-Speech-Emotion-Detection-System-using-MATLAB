@@ -21,7 +21,7 @@ The project demonstrates the practical application of AI in Human-Computer Inter
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Audio Processing
 
@@ -74,7 +74,7 @@ Speech Input → Preprocessing → Feature Extraction → Trained ML Model → E
 
 ---
 
-## 🔬 Feature Extraction
+## Feature Extraction
 
 The following speech features are extracted from each audio sample:
 
@@ -209,8 +209,8 @@ serDashboard
 ## Author
 
 **Bhavya Solanki**
-B.Tech – Electronics & Communication Engineering (ECE)
-AI & Machine Learning Enthusiast
+* B.Tech – Electronics & Communication Engineering (ECE)
+* AI & Machine Learning Enthusiast
 
 ---
 
