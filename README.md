@@ -3,7 +3,7 @@ The Real Time Speech Emotion Recognition System is a MATLAB-based machine learni
 
 ---
 
-## Project Overview
+## Project Overview 
 
 This project combines Speech Signal Processing, Machine Learning, and MATLAB GUI Development to detect human emotions from voice recordings.
 
